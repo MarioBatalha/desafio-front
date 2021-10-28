@@ -4,7 +4,7 @@
   --default-color: #FFF;
   --primary-color: #6E6E6E;
   --secondary-color: #20BC9B;
-  --text-color:#D9D9D9;
+  --text-color:#B3BAB8;
   --main-color: #F5F5F5;
   --danger-color: #FF4B4B;
 }
@@ -23,7 +23,7 @@ html {
 
 body {
   background: var(--default-color);
-  color: var(--primary-color);
+  color: var(--text-color);
   font-family: "Poppins", sans-serif;
 }
 
