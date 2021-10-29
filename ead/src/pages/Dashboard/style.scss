@@ -39,3 +39,17 @@
   height: 100vh;
   margin: 2rem;
 }
+
+.content-header {
+  margin: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.prev {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
