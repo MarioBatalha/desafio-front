@@ -38,7 +38,7 @@ export const Dashboard = () => {
   };
 
   useEffect(() => {
-    handleGetData();
+    //handleGetData();
   });
 
   if (loading) {
